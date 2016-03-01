@@ -1,0 +1,28 @@
+name: renbo
+favicon: null
+layout_spectrum: 0.9115355582907796
+typography_spectrum: 0.44799820659682155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5224639365915209
+  lightness: 0.05362252797931433
+  saturation: 0.9327009613625705
+  rhythmicContrast: 0.12293186341412365
+purpose: []
